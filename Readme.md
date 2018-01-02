@@ -18,6 +18,7 @@ Options:
   -w --whitelist <whitelist>         names of types to whitelist (comma delimited)
   --null-keys                        adds a '?' to all keys
   --null-values                      adds a '?' to all values
+  --null-keys-from-values            adds a '?' to keys where value is nullable
 ```
 
 ## Examples
